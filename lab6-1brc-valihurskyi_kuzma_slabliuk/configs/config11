@@ -1,0 +1,3 @@
+infile = "./data/data.txt"
+outfile = "./data/testing.out" # Результати, посортовані за алфавітом
+threads = 11

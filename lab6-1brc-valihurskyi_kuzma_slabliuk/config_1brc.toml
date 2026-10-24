@@ -1,0 +1,3 @@
+infile = "./data/measurements_10mil.txt"
+outfile = "./data/testing.out" # Результати, посортовані за алфавітом
+threads = 5
